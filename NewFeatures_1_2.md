@@ -1,0 +1,2 @@
+# 1.2.0 #
+  * Added support for specifying the GMF's figure template path in a .def file. Example: ` figureTemplatePath = /org.example.awesomeproject/templates ` This property can not be set in a genmodel, see https://bugs.eclipse.org/bugs/show_bug.cgi?id=170686
